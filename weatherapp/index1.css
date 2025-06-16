@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #83a4d4, #b6fbff);
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .weather-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  }
+  
+  input {
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #weatherResult {
+    margin-top: 20px;
+  }
+  body{
+    background-image: url("./storm-11970_256.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;}
+    h1{
+        text-size-adjust: 20;
+        text-align: center;
+    }
+    

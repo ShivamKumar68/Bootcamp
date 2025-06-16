@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  margin: 40px auto;
+  background-color: #fff;
+  padding: 20px 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#search {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+}
+
+.job {
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}
+
+.job h2 {
+  margin: 0;
+  color: #0073e6;
+}
+
+.job p {
+  margin: 5px 0;
+  color: #555;
+}
